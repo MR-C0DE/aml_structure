@@ -1,0 +1,12 @@
+{
+    "name": "phpaml",
+    "version": "1.0.0",
+    "description": "PHP Application with MVC Architecture",
+    "scripts": {
+      "start": "php -S localhost:8000"
+    },
+    "dependencies": {
+      "php": "^7.0.0"
+    }
+  }
+  
